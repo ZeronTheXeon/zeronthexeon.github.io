@@ -27,10 +27,10 @@
 
 			<table border="1">
 			  <tr>
-				<td><a href="player.html">Player</a></td>
+				<td><a href="player">Player</a></td>
 			  </tr>
 			  <tr>
-				<td><a href="game-mechanics.html">Game Mechanics</a></td>
+				<td><a href="game-mechanics">Game Mechanics</a></td>
 			  </tr>
 			</table>
     </section>
