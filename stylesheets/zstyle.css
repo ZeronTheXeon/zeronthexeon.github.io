@@ -1,1 +1,4 @@
 /* For any custom work we need. */
+.top-content, .middle-content, .bottom-content {
+	height: 33%;
+}
